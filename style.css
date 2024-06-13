@@ -85,10 +85,10 @@ img{
 }
 .btn{
     display:grid;
-    color: var(--White);
+    color: white;
     padding: 10px;
     background-color: var(--Grey);
-    margin: 3%;
+    margin: 5%;
     transition: all 0.3s;
     align-items: center;
     border-radius: 10px;
